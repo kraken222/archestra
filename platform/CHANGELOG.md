@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.50](https://github.com/archestra-ai/archestra/compare/platform-v1.3.49...platform-v1.3.50) (2026-09-05)
+
+
+### Features
+
+* **agent-runtime:** expose run id to workloads ([#7694](https://github.com/archestra-ai/archestra/issues/7694)) ([b5b4449](https://github.com/archestra-ai/archestra/commit/b5b4449a82fb732ae993415fa3c2e36201bc874f))
+
+
+### Bug Fixes
+
+* **mcp-runtime:** upgrade Alpine security packages ([#7695](https://github.com/archestra-ai/archestra/issues/7695)) ([eed3d53](https://github.com/archestra-ai/archestra/commit/eed3d539b24759c7024a0abbb82865186413f833))
+
 ## [1.3.49](https://github.com/archestra-ai/archestra/compare/platform-v1.3.48...platform-v1.3.49) (2026-09-04)
 
 
